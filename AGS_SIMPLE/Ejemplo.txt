@@ -1,0 +1,11 @@
+ #Valores de Ejemplo:
+    # pc = 0.8  # Probabilidad de cruza
+    # pmi = 0.01  # Probabilidad de mutación individual
+    # pmg = 0.05  # Probabilidad de mutación de gen
+    # po = 35  # Tamaño de la población
+    # p_Max = 5  # Número máximo de individuos a mantener después de la poda
+    # rango_min = 0  # Límite inferior del rango
+    # rango_max = 14  # Límite superior del rango
+    # interv = 1  # Intervalo para la creación de individuos
+    # cantidad_gene = 50  # Número de generaciones
+    # formula = "x**3*((sin(x))/(100))+x**2*cos(x)"  # Funciòn recibida para calcular la aptitud sintaxix ejem: x**3*((sin(x))/(100))+x**2*cos(x)  
